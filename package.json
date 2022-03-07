@@ -4,8 +4,7 @@
   "description": "Meu site para apresentar todos os meus trabalhos relevantes.",
   "main": "index.js",
   "scripts": {
-    //"dev": "next dev"
-    "dev": "nodemon src/"
+      "dev": "nodemon src/"
   },
   "repository": {
     "type": "git",
