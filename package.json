@@ -4,14 +4,15 @@
   "description": "Meu site para apresentar todos os meus trabalhos relevantes.",
   "main": "index.js",
   "scripts": {
-    "dev": "next dev"
+    //"dev": "next dev"
+    "dev": "nodemon src/"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Nic-Dev-97/My-portfolio.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "Nicolas Bonfim Melchior",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Nic-Dev-97/My-portfolio/issues"
