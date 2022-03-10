@@ -1,3 +1,6 @@
 # My-portfolio
-Meu site para apresentar todos os meus trabalhos relevantes.
+Hi!
+This web site was desenvolved to my practice...
+
+
 
